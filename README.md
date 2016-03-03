@@ -13,11 +13,11 @@ A: There is a development server running at 185.119.254.31:7780.
 
 # My SA:MP releases
 Filterscripts:  
-  [+] Killstreak system with saving  
-  [+] Simple pilot job  
+&nbsp;&nbsp;[+] Killstreak system with saving  
+&nbsp;&nbsp;[+] Simple pilot job  
 Maps:  
-  [+] Coming soon  
+&nbsp;&nbsp;[+] Coming soon  
 Gamemodes:  
-  [+] Coming soon  
+&nbsp;&nbsp;[+] Coming soon  
 Includes:  
-  [+] Coming soon
+&nbsp;&nbsp;[+] Coming soon
