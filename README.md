@@ -1,31 +1,23 @@
 # SA-MP-Release
 
-Hi,
-You Can see My Release Here !
+Hi, you can see my releases here!
 
-A  :I Want to Download and Edit your Script,I Can ?
-I'm:Of Course You Can, But Dont Remove Credits Please
+**Questions & Answers**
 
-A  :I Want Test Your Script Before Download , I Can ?
-I'm:Yeah,You Can Visit My Server at ..
+*Q: I want to download and edit your script, am I allowed to do so?*  
+A: Ofcourse you can, but please don't remove the credits.
 
-HostName: Legendary Criminals[PREMIUM]
-Address:  185.119.254.31:7780
-Players:  xx / 50
-Ping:     xx
-Mode:     Freeroam/Robbers/SATDM/RP
-Language: English/Everything
-
+*Q: I would like to test a filterscript of yours before downloading, is there a place where I can do that?*  
+A: There is a development server running at 185.119.254.31:7780.
 ************************************************
 
-My Release SA:MP
-Filterscript : [+] Killstreak System With Saving
-               [+] Simple Pilot Job's
-               
-Map's        : [+] Coming Soon
-
-Gamemode     : [+] Coming Soon
-
-Include      : [+] Coming Soon
-
-//Dont Remove Credits Right
+# My SA:MP releases
+Filterscripts:  
+&nbsp;&nbsp;[+] Killstreak system with saving  
+&nbsp;&nbsp;[+] Simple pilot job  
+Maps:  
+&nbsp;&nbsp;[+] Coming soon  
+Gamemodes:  
+&nbsp;&nbsp;[+] Coming soon  
+Includes:  
+&nbsp;&nbsp;[+] Coming soon
